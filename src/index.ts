@@ -1,0 +1,1 @@
+console.log("Mault technical test project");

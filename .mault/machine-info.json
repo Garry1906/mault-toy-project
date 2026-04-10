@@ -1,0 +1,9 @@
+{
+  "machineId": "ac53d94e1a80205d6a0d2e179d67a6f77ff6048d5513343814a7b6b3bfc264c8",
+  "hostname": "Olympus",
+  "platform": "linux",
+  "arch": "x64",
+  "nodeVersion": "v22.22.1",
+  "vscodeVersion": "1.115.0",
+  "maultVersion": "0.15.4"
+}

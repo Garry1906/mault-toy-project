@@ -1,0 +1,85 @@
+[2026-04-10T04:36:35.833Z] INFO Mault Memory Layer activation started
+[2026-04-10T04:36:35.976Z] INFO Issue #825: Mault Panel TreeView registered
+[2026-04-10T04:36:35.976Z] INFO Issue #825: Mault Panel registered (routing via publishers)
+[2026-04-10T04:36:35.976Z] INFO Phase 6: Agent Workflows TreeView registered
+[2026-04-10T04:36:35.976Z] INFO #2603: Production Readiness TreeView registered
+[2026-04-10T04:36:36.099Z] INFO No mault.yaml found - quiet mode for returning user
+[2026-04-10T04:36:36.099Z] INFO [CodeActions] Provider registered successfully
+[2026-04-10T04:36:36.099Z] INFO [CodeActions] registerCodeActions called
+[2026-04-10T04:36:36.099Z] INFO ✅ Mault activated in Quiet Setup mode (returning user)
+[2026-04-10T04:44:21.730Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:21.730Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:21.730Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:23.566Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:23.566Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:23.566Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:23.932Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:23.932Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:23.932Z] INFO [CodeActions] Raw diagnostics count: 1
+[2026-04-10T04:44:23.932Z] INFO [CodeActions] Diag[0]: source="ts" msg="Identifier expected...."
+[2026-04-10T04:44:25.104Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:25.104Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:25.104Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:25.478Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:25.478Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:25.478Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:26.710Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:26.710Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:26.711Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:27.833Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:27.833Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:27.833Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:29.055Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:29.055Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:29.055Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:30.294Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:30.294Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:30.294Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:31.056Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:31.056Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:31.056Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:32.119Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:32.120Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:32.120Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:32.485Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:32.485Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:32.485Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:33.199Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:33.199Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:33.199Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:34.340Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:34.340Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:34.340Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:35.038Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:35.038Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:35.038Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:36.321Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:36.321Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:36.321Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:37.102Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:37.102Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:37.102Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:39.263Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:39.263Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:39.263Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:41.942Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:41.942Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:44:41.942Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:44.710Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:44:44.710Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:44:44.710Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:45:00.501Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/package-lock.json
+[2026-04-10T04:45:00.501Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:45:00.502Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:45:00.579Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:45:00.579Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/package-lock.json
+[2026-04-10T04:45:00.579Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:45:01.206Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:45:01.206Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:45:01.206Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:45:01.294Z] INFO [CodeActions] Raw diagnostics count: 0
+[2026-04-10T04:45:01.294Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:45:01.294Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:45:01.471Z] INFO [CodeActions] ========== provideCodeActions START ==========
+[2026-04-10T04:45:01.471Z] INFO [CodeActions] File: /home/garsaba93/Work/mault-toy-project/src/index.ts
+[2026-04-10T04:45:01.471Z] INFO [CodeActions] Raw diagnostics count: 0
