@@ -1,0 +1,20 @@
+
+node_modules/
+dist/
+
+# Environment files (NEVER commit secrets)
+.env
+.env.local
+.env.*.local
+.env.development
+.env.staging
+.env.production
+*.env
+!.env.example
+
+# Mault Memory Layer (auto)
+.memory-layer/
+.memory-layer/cache/
+.memory-layer/logs/
+.memory-layer/reports/
+.memory-layer/archive/
